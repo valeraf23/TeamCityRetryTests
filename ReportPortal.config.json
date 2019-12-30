@@ -1,0 +1,9 @@
+﻿{
+  "server": {
+    "url": "https://rp.epam.com/api/v1/",
+    "project": "idl-vdr",
+    "authentication": {
+      "uuid": "969dcd4d-3b3e-4bd5-a0d4-7df08ba545d8"
+    }
+  }
+}
